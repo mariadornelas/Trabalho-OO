@@ -1,6 +1,6 @@
 package com.mycompany.dcc025;
 
-import java.util.*;
+import java.util.Scanner;
 import javax.swing.*;
 /**
  *
